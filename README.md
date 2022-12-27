@@ -1,16 +1,20 @@
-### Hi there 👋
+### Welcome to my account. 
+I'm a father of two sons. I'm Ukrainian🇺🇦 citizen. 
 
-<!--
-**kaietaie/kaietaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I want to be goodpayed developer.
 
-Here are some ideas to get you started:
+Here you can find my pet-projects and studying repos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+| Hard skills    |  Soft skills     |
+|----------------|------------------|
+| ☑️ NodeJS      |  ☑️ Dedicated    |
+| ☑️ Git         |  ☑️ Resourceful  |
+| ☑️ CSS         |  ☑️ Reliable     |
+| ☑️ ReactJS     |  ☑️ Enthusiastic |
+| ☑️ Git         |  ☑️ Motivated    |
+| ☑️ CSS         |  ☑️ Highly detail-oriented          |
+
+
+
+
