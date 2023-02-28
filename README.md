@@ -9,15 +9,15 @@ Here you can find my pet-projects and studying repos.
 | Hard skills    |  Soft skills     |
 |----------------|------------------|
 | ☑️ NodeJS      |  ☑️ Dedicated    |
-| ☑️ JavaScript         |  ☑️ Highly detail-oriented          |
+| ☑️ JavaScript  |  ☑️ Highly detail-oriented          |
 | ☑️ Git         |  ☑️ Resourceful  |
-| ☑️ Jira         |  ☑️ Reliable     |
-| ☑️ Express.js     |  ☑️ Enthusiastic |
-| ☑️ PostgreSQL         |  ☑️ Motivated    |
-| ☑️ REST API         |  ☑️ Resourceful  |
-| ☑️ CSS         |  ☑️ Reliable     |
-| ☑️ ReactJS     |  ☑️ Enthusiastic |
-| ☑️ HTML   | |
+| ☑️ Jira        |  ☑️ Reliable     |
+| ☑️ Express.js  |  ☑️ Enthusiastic |
+| ☑️ PostgreSQL  |  ☑️ Motivated    |
+| ☑️ REST API    | |
+| ☑️ CSS         | |
+| ☑️ ReactJS     | |
+| ☑️ HTML        | |
 
 
 
