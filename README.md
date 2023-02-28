@@ -11,10 +11,13 @@ Here you can find my pet-projects and studying repos.
 | ☑️ NodeJS      |  ☑️ Dedicated    |
 | ☑️ JavaScript         |  ☑️ Highly detail-oriented          |
 | ☑️ Git         |  ☑️ Resourceful  |
+| ☑️ Jira         |  ☑️ Reliable     |
+| ☑️ Express.js     |  ☑️ Enthusiastic |
+| ☑️ PostgreSQL         |  ☑️ Motivated    |
+| ☑️ REST API         |  ☑️ Resourceful  |
 | ☑️ CSS         |  ☑️ Reliable     |
 | ☑️ ReactJS     |  ☑️ Enthusiastic |
-| ☑️ HTML         |  ☑️ Motivated    |
-
+| ☑️ HTML   | |
 
 
 
