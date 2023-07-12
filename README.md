@@ -8,17 +8,18 @@ Here you can find my pet-projects and studying repos.
 ## My Skills
 | Hard skills    |  Soft skills     |
 |----------------|------------------|
-| ☑️ NodeJS      |  ☑️ Dedicated    |
+| ☑️ Node.js      |  ☑️ Dedicated    |
 | ☑️ JavaScript  |  ☑️ Highly detail-oriented          |
 | ☑️ Git         |  ☑️ Resourceful  |
 | ☑️ Jira        |  ☑️ Reliable     |
 | ☑️ Express.js  |  ☑️ Enthusiastic |
 | ☑️ PostgreSQL  |  ☑️ Motivated    |
 | ☑️ REST API    | |
-| ☑️ CSS         | |
-| ☑️ ReactJS     | |
+| ☑️ GraphQL         | |
+| ☑️ React.js     | |
+| ☑️ Next.js        | |
 | ☑️ HTML        | |
-
+| ☑️ CSS        | |
 
 
 
