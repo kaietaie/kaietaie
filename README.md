@@ -15,6 +15,7 @@ Here you can find my pet-projects and studying repos.
 | ☑️ Express.js  |  ☑️ Enthusiastic |
 | ☑️ PostgreSQL  |  ☑️ Motivated    |
 | ☑️ REST API    | |
+| ☑️ AWS (Simplify, AppSync)    | |
 | ☑️ GraphQL         | |
 | ☑️ React.js     | |
 | ☑️ Next.js        | |
